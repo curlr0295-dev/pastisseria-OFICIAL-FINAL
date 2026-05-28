@@ -1,12 +1,11 @@
-colell-web/
-│
+pastisseria-OFICIAL-FINAL/
+
 ├── index.html
-│
 ├── images/
-│ ├── pa-artesa.jpg
-│ ├── coca-recapte.jpg
-│ ├── croissants.jpg
-│ ├── logo.jpg
-│ ├── mona-pasqua.jpg
-│ ├── panadons.jpg
-│ ├── trena.jpg
+│   ├── pa-artesa.jpg
+│   ├── coca-recapte.jpg
+│   ├── croissants.jpg
+│   ├── logo.jpg
+│   ├── mona-pasqua.jpg
+│   ├── panadons.jpg
+│   └── trena.jpg
